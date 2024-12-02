@@ -1,0 +1,33 @@
+# Byte-compiled Python files
+*.py[cod]
+**/__pycache__/
+
+# Environment files
+.env
+
+# # SQLite database file
+# db.sqlite3
+
+# Logs
+*.log
+
+# Virtual environment directories
+venv/
+env/
+lms_env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
